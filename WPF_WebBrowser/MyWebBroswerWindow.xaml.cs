@@ -20,7 +20,7 @@ namespace WPF_WebBrowser
         public string query { get; set; }
 
         public MyWebBroswerWindow()
-        {
+        { 
             InitializeComponent();
 
             webGoogle.Navigate($"https://www.google.com/search?q={query}");
