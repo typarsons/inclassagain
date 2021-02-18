@@ -10,11 +10,11 @@ none
 false
 TRACE;DEBUG;NETCOREAPP;NETCOREAPP3_1
 C:\Users\lenovo\source\repos\inclassagain\WPF_WebBrowser\App.xaml
-11151548125
+21063791932
 
-61207227456
+6-1557182333
 1921654412462
-MainWindow.xaml;
+MainWindow.xaml;MyWebBroswerWindow.xaml;
 
-True
+False
 

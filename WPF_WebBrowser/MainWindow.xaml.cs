@@ -31,7 +31,11 @@ namespace WPF_WebBrowser
             string query = txtQuery.Text;
 
             //webGoogle.Navigate($"{query}");
-            webGoogle.Navigate($"https://www.google.com/search?q={query}");
+            MyWebBroswerWindow google = new MyWebBroswerWindow();
+            google.query = query;
+            google.Show(); // open multiple windows
+            //google.ShowDialog();  (open only 1 window at time)
+            google.ShowDialog();
         }
     }
 }

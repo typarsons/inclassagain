@@ -17,3 +17,5 @@ C:\Users\lenovo\source\repos\inclassagain\WPF_WebBrowser\obj\Debug\netcoreapp3.1
 C:\Users\lenovo\source\repos\inclassagain\WPF_WebBrowser\obj\Debug\netcoreapp3.1\WPF_WebBrowser.dll
 C:\Users\lenovo\source\repos\inclassagain\WPF_WebBrowser\obj\Debug\netcoreapp3.1\WPF_WebBrowser.pdb
 C:\Users\lenovo\source\repos\inclassagain\WPF_WebBrowser\obj\Debug\netcoreapp3.1\WPF_WebBrowser.genruntimeconfig.cache
+C:\Users\lenovo\source\repos\inclassagain\WPF_WebBrowser\obj\Debug\netcoreapp3.1\MyWebBroswerWindow.g.cs
+C:\Users\lenovo\source\repos\inclassagain\WPF_WebBrowser\obj\Debug\netcoreapp3.1\MyWebBroswerWindow.baml
