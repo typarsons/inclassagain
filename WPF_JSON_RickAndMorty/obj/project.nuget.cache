@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "+u9suBLxEo5nodGS/wm1JAIPLBTAeaFTAT6iO0gIFWeduaqS8hogkmcMtNjpbXKBOVHSOynHRGv+9KtcpSM27w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\lenovo\\Source\\Repos\\inclassagain\\WPF_JSON_RickAndMorty\\WPF_JSON_RickAndMorty.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lenovo\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

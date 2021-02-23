@@ -36,6 +36,9 @@ namespace WPF_WebBrowser
             google.Show(); // open multiple windows
             //google.ShowDialog();  (open only 1 window at time)
             google.ShowDialog();
+
+            //look at professors github for better explanation of whats going on 
+            //video will also be uploaded. talks a lot about homework , participation , midterm
         }
     }
 }

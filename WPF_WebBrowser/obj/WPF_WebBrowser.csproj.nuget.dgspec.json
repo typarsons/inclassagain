@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\lenovo\\source\\repos\\inclassagain\\WPF_WebBrowser\\WPF_WebBrowser.csproj": {}
+    "C:\\Users\\lenovo\\Source\\Repos\\inclassagain\\WPF_WebBrowser\\WPF_WebBrowser.csproj": {}
   },
   "projects": {
-    "C:\\Users\\lenovo\\source\\repos\\inclassagain\\WPF_WebBrowser\\WPF_WebBrowser.csproj": {
+    "C:\\Users\\lenovo\\Source\\Repos\\inclassagain\\WPF_WebBrowser\\WPF_WebBrowser.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lenovo\\source\\repos\\inclassagain\\WPF_WebBrowser\\WPF_WebBrowser.csproj",
+        "projectUniqueName": "C:\\Users\\lenovo\\Source\\Repos\\inclassagain\\WPF_WebBrowser\\WPF_WebBrowser.csproj",
         "projectName": "WPF_WebBrowser",
-        "projectPath": "C:\\Users\\lenovo\\source\\repos\\inclassagain\\WPF_WebBrowser\\WPF_WebBrowser.csproj",
+        "projectPath": "C:\\Users\\lenovo\\Source\\Repos\\inclassagain\\WPF_WebBrowser\\WPF_WebBrowser.csproj",
         "packagesPath": "C:\\Users\\lenovo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lenovo\\source\\repos\\inclassagain\\WPF_WebBrowser\\obj\\",
+        "outputPath": "C:\\Users\\lenovo\\Source\\Repos\\inclassagain\\WPF_WebBrowser\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",

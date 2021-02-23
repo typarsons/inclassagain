@@ -69,7 +69,7 @@ namespace WPF_WebBrowser {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/WPF_WebBrowser;component/mywebbroswerwindow.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/WPF_WebBrowser_0o4bxdri_wpftmp;component/mywebbroswerwindow.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\MyWebBroswerWindow.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);
